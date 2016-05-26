@@ -1,0 +1,8 @@
+{
+    "name": "libo5410391/hello-word",
+    "autoload":{
+        "psr-4":{"Acme\\":"src/"}
+    },
+    "require": {
+    }
+}
