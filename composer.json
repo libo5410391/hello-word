@@ -4,5 +4,6 @@
         "psr-4":{"Acme\\":"src/"}
     },
     "require": {
+	"monolog/monolog": "1.2.*"
     }
 }
